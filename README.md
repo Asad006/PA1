@@ -12,7 +12,7 @@ javac Counter.java followed with java Counter.
 ## Approach
 I used a fixed thread pool to generate the 8 threads required for the assignment.
 To test the prime numbers, I used the square root approach as it gives a faster execution time without
-fully optimize as seive does.
+a full optimization as seive does.
 
 ## Correctness and Efficiency
 Using multiple threads in this problem runs into the problem of equally sharing the work among threads.

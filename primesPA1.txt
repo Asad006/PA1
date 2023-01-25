@@ -1,4 +1,4 @@
-Execution time : 16187ms.
+Execution time : 12072ms.
 Number of Primes := 5761455.
 Sum of all primes found : 279209790387276
 Last 10 primes found :
